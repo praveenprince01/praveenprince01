@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveenkumar</h1>
 
 <h3 align="center">
-UI/UX Designer | UX Researcher | Front-End Learner | Founder of PPA DESIGN STUDIO
+UI/UX Designer | Mentor | Trainer | UX Researcher | Front-End Learner | Founder of PPA DESIGN STUDIO
 </h3>
 
 <p align="center">
