@@ -12,7 +12,7 @@ Designing intuitive digital experiences that solve real user problems.
 
 ## 🚀 About Me
 
-- 🎨 UI/UX Designer with 1.5+ years of experience
+- 🎨 UI/UX Designer with 1+ years of experience
 - 🚀 Founder of **PPA DESIGN STUDIO**
 - 📱 Mobile App Designer
 - 💻 Responsive Website Designer
