@@ -1,180 +1,137 @@
-# praveenprince01
-# 👋 Hi, I'm Praveenkumar
+<h1 align="center">Hi 👋, I'm Praveenkumar</h1>
 
-### UI/UX Designer • UX Researcher • Product Designer • Founder of PPA DESIGN STUDIO
+<h3 align="center">
+UI/UX Designer | UX Researcher | Front-End Learner | Founder of PPA DESIGN STUDIO
+</h3>
 
-I design intuitive, user-centered digital experiences that solve real user problems through research, usability, and thoughtful interaction design.
-
-With experience in UX research, wireframing, prototyping, design systems, and high-fidelity interfaces, I enjoy transforming complex ideas into simple and engaging products.
+<p align="center">
+Designing intuitive digital experiences that solve real user problems.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎨 UI/UX Designer with 1+ years of experience
-* 🚀 Founder of PPA DESIGN STUDIO
-* 🔍 Passionate about User Experience, Design Thinking & Accessibility
-* 📱 Designing Mobile Apps, Web Apps, Responsive Websites & Dashboards
-* 🤖 Exploring AI-powered product experiences
-* 📚 Continuous learner who enjoys solving real-world UX problems
-* 🌱 Currently improving Product Design, Design Systems and AI workflows
-* 💼 Helping startups transform ideas into user-friendly digital products
-* 📚 Continuous learner who enjoys solving real-world UX problems
+- 🎨 UI/UX Designer with 1.5+ years of experience
+- 🚀 Founder of **PPA DESIGN STUDIO**
+- 📱 Mobile App Designer
+- 💻 Responsive Website Designer
+- 📊 Dashboard Designer
+- 🔍 UX Research & User Testing
+- 🎯 Design Systems & Prototyping
+- 🤖 AI-powered Design Workflow
+- 🌱 Currently learning Front-End Development
 
 ---
 
-## 🛠 Design Skills
-
-### UX Design
-
-* User Research
-* UX Audit
-* Competitive Analysis
-* Information Architecture
-* User Personas
-* Empathy Mapping
-* Journey Mapping
-* User Flows
-* Card Sorting
-* Affinity Mapping
-* Usability Testing
-* Accessibility
-* Design Thinking
-
-### UI Design
-
-* Wireframing
-* Low & High Fidelity Prototypes
-* Responsive Design
-* Design Systems
-* Components
-* Auto Layout
-* Variables
-* Interactive Prototypes
-* Micro Interactions
-* Mobile App Design
-* Web Application Design
-* Dashboard Design
-
----
-
-## 💻 Tools
-## 🛠️ Design & Development Tools
+# 🛠 Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,ps,ai" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Maze-7B61FF?style=for-the-badge&logo=maze&logoColor=white" />
+<img src="https://img.shields.io/badge/Maze-7B61FF?style=for-the-badge&logo=maze&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </p>
-**Design**
-
-* Figma
-* Adobe XD
-* Photoshop
-* Illustrator
-* After Effects
-* Canva
-
-**Research & Collaboration**
-
-* Maze
-* Zeplin
-* Balsamiq
-* Axure
-* InVision
-* FigJam
-
-**Development**
-
-* HTML
-* CSS
-* JavaScript (Basic)
-* Git
-* GitHub
 
 ---
 
-## 📂 Featured Projects
+# 🏢 PPA DESIGN STUDIO
+
+Helping startups, businesses, and entrepreneurs create modern digital products with a strong focus on user experience.
+
+### 💼 Services
+
+- 📱 Mobile App UI/UX Design
+- 💻 Responsive Website Design
+- 📊 SaaS Dashboard Design
+- 🔍 UX Research
+- 🧩 Wireframing
+- 🎯 Design Systems
+- ⚡ Interactive Prototypes
+- 🚀 MVP Design
+- 💡 Product Design Consultation
+
+---
+
+# 🚀 Featured Projects
 
 ### 🏋️ MyFit
-
-An all-in-one health and fitness application featuring workout tracking, diabetes management, diet guidance, reminders, expense tracking, and community support.
+An all-in-one fitness and health application.
 
 ### ☁️ Marvel Space
-
-A cloud storage management dashboard that helps users organize and monitor multiple cloud services from one place.
+Cloud storage dashboard for managing multiple cloud platforms.
 
 ### 🏦 PPA Bank
-
-A modern mobile banking experience focused on quick payments, account management, UPI, transfers, and financial insights.
+Modern mobile banking UI/UX.
 
 ### 👔 Men@folio
-
-Responsive eCommerce website for men's fashion with a clean shopping experience.
+Responsive eCommerce website for men's fashion.
 
 ### 📺 Infinity Zero
-
-Modern Android TV interface designed for intuitive remote navigation and immersive entertainment.
+Android TV user interface.
 
 ### ⌚ Unifit Smart Watch
-
-Minimal smartwatch UI with health tracking, maps, music, live bus tracking, weather, and daily productivity features.
-
----
-
-## 📈 Currently Learning
-
-* Product Strategy
-* AI for Designers
-* Design Systems at Scale
-* UX Writing
-* Front-End Fundamentals
-
----
-🏢 PPA DESIGN STUDIO
-
-PPA DESIGN STUDIO is a UI/UX design studio focused on creating intuitive, scalable, and user-centered digital experiences.
-
-Services
-📱 Mobile App UI/UX Design
-💻 Responsive Website Design
-📊 SaaS & Dashboard Design
-🎨 Design Systems
-🔍 UX Research & UX Audit
-🧪 Wireframing & Interactive Prototyping
-🚀 MVP Design for Startups
-💡 Product Design Consultation
-
-Mission: Design digital products that are simple, accessible, and built around real user needs.
-
-🤝 Let's Connect
-💼 LinkedIn
-🎨 Behance
-💻 GitHub
-📸 Instagram: @praveen.uix
-🌐 Portfolio
-🏢 PPA DESIGN STUDIO
-📧 Email
-
-Designing meaningful experiences, one pixel at a time.
+Minimal smartwatch experience with health tracking.
 
 ---
 
-## 💡 Design Philosophy
+# 📊 GitHub Stats
 
-> Great design is not about making interfaces beautiful. It's about making people's lives easier.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenprince01&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenprince01&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=praveenprince01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/praveen.uix">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **Good design isn't just about how it looks — it's about how it works and how users feel while using it.**
 
 ⭐ Thanks for visiting my profile!
-If you like my work, consider following my journey and checking out my projects.
