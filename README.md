@@ -1,4 +1,4 @@
-# Praveen.uix
+# praveenprince01
 # 👋 Hi, I'm Praveenkumar
 
 ### UI/UX Designer • UX Researcher • Product Designer • Founder of PPA DESIGN STUDIO
